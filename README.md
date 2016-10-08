@@ -2,7 +2,13 @@
 Modified from TimesSquare for Android
 
 thanks a lot !
+
+1.增加日历显示价格
+2.增加酒店式的入离日期选择
+3.对高亮，选中，不可选等分别做处理
+4.移除了单元格的边框
  
+ 欢迎交流和使用
 
 License
 -------
